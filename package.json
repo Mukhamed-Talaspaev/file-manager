@@ -1,0 +1,10 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "CLI File Manager using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
